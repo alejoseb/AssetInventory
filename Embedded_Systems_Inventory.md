@@ -1,4 +1,4 @@
-| Item | Name                 | Qty. | Architecture | Project    | Owner  | Comments                                                                                               |
+| Item | Name                 | Qty. | Architecture | Project    | Borrower  | Comments                                                                                               |
 |------|----------------------|------|--------------|------------|--------|--------------------------------------------------------------------------------------------------------|
 | 1    | NUCLEO64-F103RB      | 1    | Cortex-M3    | P2IM, DICE | AM (1) | Entry level Cortex-M3, lots of sample firmware available, good starting point for Cortex-M development |
 | 2    | NUCLEO144-F429ZE     | 1    | Corttex-M4   | P2IM, DICE | AM (1) | Ethernet enabled, powerful board and reference design for MBED                                         |
